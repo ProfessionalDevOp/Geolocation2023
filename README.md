@@ -1,2 +1,2 @@
-# Geolocation2023
-This project is developed in Java to make the first part of the geolocation of patients for their assistance by doctors
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
